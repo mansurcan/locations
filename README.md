@@ -75,6 +75,27 @@ To run these notebooks, you will need an environment capable of executing Jupyte
 
 ---
 
+
+
+## Schedule Management (`schedule.ipynb`)
+
+The `schedule.ipynb` notebook is designed to orchestrate the data processing workflow, ensuring smooth transitions and automated task management across the Bronze, Silver, and Gold layers.
+
+### Key Features:
+
+- **Task Scheduling**: Automates the execution of the `bronze.ipynb`, `silver.ipynb`, and `gold.ipynb` notebooks in the correct sequence.
+- **Dependency Management**: Ensures that each layer's prerequisites are met before proceeding to the next stage.
+- **Notification System**: Optionally, sends alerts or updates regarding the pipeline's status, completion, or any errors encountered.
+- **Logging**: Maintains a detailed log of each task's execution status, facilitating troubleshooting and audit trails.
+
+### Usage Instructions:
+
+1. Review and adjust the scheduling parameters as necessary to fit your project's timeline and resource availability.
+2. Execute the notebook to initiate the automated workflow.
+3. Monitor the progress through the logs or notification system.
+
+This notebook is essential for maintaining a seamless and efficient pipeline, reducing manual oversight, and ensuring data is processed accurately and timely.
+
 ## Author
 
 - Mansur Can
