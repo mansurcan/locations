@@ -1,0 +1,40 @@
+LocationId,OrganisationID,LocationPostCode_clean,AreaName,district
+9f1ef16b-a564-429c-aae6-8aff22827f6e,8a02ddc6-2f42-4848-8540-a7c183f0983b,BN158RB,Urban city and town,Adur
+0496448d-f175-4f73-b859-79563edc03e5,0a62cb4d-c124-488a-a6cd-5bdcd5b36540,BS234BN,Urban city and town,North Somerset
+cd42df46-9d65-48bb-8608-794275d4ca3b,e90c12ec-0164-4dfc-9e63-3ca731faca91,CR26LB,Urban major conurbation,Croydon
+45a1b8d5-5e06-4101-92a7-6c62cdc95a7b,4525390c-c86e-4fce-804d-f46431fea365,CT215ET,Urban city and town,Folkestone and Hythe
+d6b6b0e1-980d-4f09-b9ce-51f9e03c815b,851d1549-6dd7-4aa3-aeb1-fb4f699f5546,CT67NE,Urban city and town,Canterbury
+acc38cd2-acaa-41bb-8c50-bf16505d9b23,9b2e5984-a581-4a3a-accf-66c61c1454a1,CT92NJ,Urban city and town,Thanet
+986801e2-19b2-4d39-b215-7e72376ad76f,e6633b0f-d89f-4e7e-92b4-7f73f059e6c5,CV59AZ,Rural hamlets and isolated dwellings,Coventry
+7d1b9669-bb1c-46bf-9396-2d46adc9bf0f,5a93f514-fb59-4664-8222-ea5e2ee76d05,DG112EJ,Accessible small Town,Dumfries and Galloway
+7521b0f2-6a37-4d94-93e8-f651d3ef5acf,bd6e72f9-37f3-47c5-96ec-e6a6f463132a,DN331NU,Urban city and town,North East Lincolnshire
+051a6913-3833-482e-a61f-460bedd40023,bd6e72f9-37f3-47c5-96ec-e6a6f463132a,DN331NU,Urban city and town,North East Lincolnshire
+5ce7d3e4-cd19-4524-bcf5-313474dfbf7e,bd6e72f9-37f3-47c5-96ec-e6a6f463132a,DN344UD,Urban city and town,North East Lincolnshire
+7a704aeb-0a34-4cb8-b7e8-7ec2a1a61511,bdbc4693-4d98-4d96-b9a3-4dc0162818f4,DY34AE,Rural village,South Staffordshire
+60161e17-d968-42fd-88b9-6c08afa9247a,a5868207-715d-46a6-a0b5-2b3ef55f29d1,EX172BZ,Rural town and fringe,Mid Devon
+960cdf96-1531-462b-8c40-e43d23da85ff,a446b1c7-f180-4a99-8a2b-7cbbce1fabce,GL15JL,Urban city and town,Gloucester
+bf9e4511-3726-48ed-9e16-57fabee52f36,fba55514-83b2-4f12-a2e0-d2a98603c3a1,HA52NB,Urban major conurbation,Hillingdon
+bbd2dbc1-d3de-4217-9a23-db011d7c5013,0606cbfa-e5fe-477e-a4a6-8017ef0c40ce,HR14JP,Rural town and fringe,"Herefordshire, County of"
+93d23938-1177-4e09-9784-a3df53217946,ca4daf40-c6eb-4ec3-be6e-0f108942dc64,IP214EE,Rural hamlets and isolated dwellings,South Norfolk
+6f68ee76-0737-4068-832b-be63b6f3704c,ca4daf40-c6eb-4ec3-be6e-0f108942dc64,IP215BX,Rural hamlets and isolated dwellings,Mid Suffolk
+4938af1a-170f-434e-a194-a5f7922a6da8,ca4daf40-c6eb-4ec3-be6e-0f108942dc64,IP91AX,Rural village,Babergh
+3f488655-c1a0-4ff9-b9f1-400507b0d1f7,13df52eb-c61d-48c9-968f-b99845c11fe5,IV67SY,Accessible Rural,Highland
+2997a6fb-2cdd-4406-9d50-e70426a9bac4,4ad95b3c-41ba-4237-b74b-4280bd90b362,KY25HY,Other Urban Area,Fife
+35a0caf5-104e-4e1d-9df4-b01e3c62519a,b998e71d-818d-453e-a781-030ac0abb426,LE45DT,Urban city and town,Leicester
+eb304d37-89fb-4970-8373-0b7733c08a51,43ae1eca-1304-4f6d-bc01-e7583212644c,LU54QT,Urban city and town,Central Bedfordshire
+8708409b-79b7-466b-8440-b5165ed8e436,f8f0e0ae-960f-4eec-bde3-51a0df7f4b60,ML74AQ,Accessible small Town,North Lanarkshire
+65a13e46-4627-4ff2-877e-c45f2d0412b2,67945218-559d-43d6-9721-04dc97f45c6e,NG182AT,Urban city and town,Mansfield
+3289df06-5586-4478-bb9f-ea7d5e3577f3,a2a85f2f-c887-4f77-9cb7-ec0e5416dc43,NG210TT,Rural town and fringe,Newark and Sherwood
+d7e29b15-f326-4c75-bb93-64e832d48b5d,f58e2a1a-f916-41a7-a463-0a06a907a3ab,NR294PA,Rural town and fringe,Great Yarmouth
+5f8b61f7-9114-491b-9dd8-0a8f75434b0a,cba86328-9cd8-4b23-aab1-61b852e74a64,PO110JB,Urban city and town,Havant
+f9f04a1d-031e-4edf-994f-c2fb1d11caae,3657d99f-23c7-4871-8316-02ccd5d3c5d0,PO52AS,Urban city and town,Portsmouth
+a67dc79b-3648-41ad-8838-9a3111927666,01b4acb5-528f-4da9-a58f-eb71eb04e386,RM79BQ,Urban major conurbation,Havering
+5cfc19ce-2756-4606-9dc5-8383efcb8c59,65666a5a-c97a-4f8e-aac7-5a6d2535efce,SA182HW,Urban city and town,Carmarthenshire
+6d945d7e-2fbc-465c-9135-4bc0cf3265d3,18c6698a-b3f4-4aa6-96e9-f5a08015e275,SN78HU,Rural town and fringe,Vale of White Horse
+543b93db-535d-4bb6-9eba-7f73b2dea0fd,f56db364-2814-43b2-b049-62edcbd20912,SO510BL,Urban city and town,Test Valley
+0945099c-431b-446b-86f6-ccb619325ffc,e2b2cac7-5edd-428a-b892-8f510c6a43b6,SW182QU,Urban major conurbation,Wandsworth
+d8d788d5-0bcd-42af-ad24-b58c6a85fdf4,10135fb8-f2ad-4842-9bdf-2bae92450afe,TN393AN,Urban city and town,Rother
+f7fc5fe5-9d00-4b89-92cf-9b95a6537889,06905a11-3fe2-4161-a4d5-5f896598f744,TN395HL,Urban city and town,Rother
+d60ec860-4ea6-4ede-8c1d-766aa5f7ffe0,2b2653a1-e96f-40db-81be-e9a38839b990,TQ69JR,Rural town and fringe,South Hams
+3a5e15ee-aaa1-45a1-9891-fab72c6fbee5,fd0a6399-d278-4f36-a449-98a3cf535db6,TW179EE,Urban major conurbation,Spelthorne
+aa80b62d-32d5-43fd-8704-bc945139d617,ca4daf40-c6eb-4ec3-be6e-0f108942dc64,WA168AQ,Urban city and town,Cheshire East

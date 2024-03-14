@@ -1,0 +1,20 @@
+ru11ind,AreaName
+1,Large Urban Area
+2,Other Urban Area
+3,Accessible small Town
+4,Remote Small Town
+5,Very Remote Small Town
+6,Accessible Rural
+7,Remote Rural
+8,Very Remote Rural
+A1,Urban major conurbation
+B1,Urban minor conurbation
+C1,Urban city and town
+c2,Urban city and town in a sparse setting
+D1,Rural town and fringe
+E1,Rural village
+F1,Rural hamlets and isolated dwellings
+D2,Rural town and fringe in a sparse setting
+E2,Rural village in a sparse setting
+F2,Rural hamlets and isolated dwellings in a sparse setting
+NK,Not Known

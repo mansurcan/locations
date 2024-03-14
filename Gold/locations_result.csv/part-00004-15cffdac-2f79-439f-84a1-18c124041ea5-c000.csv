@@ -1,0 +1,190 @@
+LocationId,OrganisationID,LocationPostCode_clean,AreaName,district
+df9d6751-201d-452d-bda0-d18894e0fef0,2feff59d-ca15-49a0-9100-165cded25a37,AL14DD,Urban city and town,St Albans
+70d66fd2-c1b7-4742-94ef-1a46f763149c,872d01b8-fee2-4cb1-a37a-d77d81851332,B240AS,Urban major conurbation,Birmingham
+66f5d424-3904-4073-8cda-578bfc50194c,cc10c478-febc-4bbb-84e9-842621ce3ce8,B297DD,Urban major conurbation,Birmingham
+8b1ce48c-001d-4d55-ad75-c7182e53cb9d,8cca22ff-eeb0-4079-af4b-92cb07ef4c15,B323BA,Urban major conurbation,Birmingham
+8bc2d10c-f7d5-435d-843f-0cff29573804,ca7900ac-09e6-452d-a21c-ad99361e1912,B458LL,Urban city and town,Bromsgrove
+1a8c9e4e-2229-4ad1-9a00-0ae6770649c8,07b2aafe-cb44-44a5-add9-29eb579f8a73,B807HX,Rural town and fringe,Stratford-on-Avon
+511e5575-a33a-4286-b66c-921dd4d819a1,286f281e-f48b-4b88-a948-60bf9d9d35aa,BD196LP,Urban major conurbation,Kirklees
+735d94c6-4cbe-4dd4-a6a5-ddb33cce01cd,dd81d0d4-6189-4524-b0f3-44b1dda39e27,BD206PE,Urban city and town,Bradford
+4b9dc1a9-d664-4b5a-8b64-6c50a6b37e94,e829a794-e4f5-458e-9864-cc12604958dd,BD95NN,Urban major conurbation,Bradford
+c11a3315-5e13-4929-aec8-f9b5d318c7a1,00dc682e-a2dd-4721-9536-7880c45a8463,BH93BD,Urban city and town,"Bournemouth, Christchurch and Poole"
+d40a77d7-bb9c-47cd-ada5-1cdfbdcc7382,6dfda7a6-b9dd-4b44-b17a-2be15e8e984f,BL00NP,Urban major conurbation,Rossendale
+156ed6aa-180a-4162-b636-0c31250d8797,690e5bc0-d480-4072-9f33-762261f28b5a,BL14NE,Urban major conurbation,Bolton
+183241e2-88e4-4f3c-8b02-84e722c1c0bc,9e928578-9ff8-4920-9149-72d58ff76d40,BN177BY,Urban city and town,Arun
+74deb596-d167-4844-a11b-e37938bfe7ff,89c7fea2-ad47-40ec-8050-357f80b563e2,BN208LF,Urban city and town,Eastbourne
+a46da543-2ae3-4a7c-b7aa-ddfbe9f8c1a2,ffacf33b-ea34-4a78-9bb3-d0a0239646cc,BN212BG,Urban city and town,Eastbourne
+60c51878-4173-47d7-9041-9ecddeb87ace,a5868207-715d-46a6-a0b5-2b3ef55f29d1,BS207HP,Urban city and town,North Somerset
+1f8757ad-1579-4ef9-99a3-4b20a98dc633,d37d25be-cafe-476b-8bd5-912814716295,BS234BE,Urban city and town,North Somerset
+641af812-be27-4fd6-ab8e-29984ed6bb9a,034a4560-de6d-46fe-9cfc-978cfdc9c431,CA141SS,Rural town and fringe,Allerdale
+d6225d6e-ba11-4fd1-bd50-683e1646241d,351e396c-7981-429f-81fa-c70ef97f9fc4,CH53JD,Urban city and town,Flintshire
+f3bad284-bb91-4fbd-87c3-121bf15a9b59,cd0c4d0a-e7e2-46a9-a439-fd14f8eafcea,CH661QL,Urban city and town,Cheshire West and Chester
+2a26084f-f3c4-4131-9f7e-b01fd40c4373,07b2aafe-cb44-44a5-add9-29eb579f8a73,CM201BU,Urban city and town,Harlow
+48c1ebc5-8137-45b4-8105-1f3a2155fa09,89c9b63d-ebbe-4b77-88a8-086a55d8a50d,CM231EN,Urban city and town,East Hertfordshire
+3731ad19-9da8-48f7-bb10-9b04eb77f1f9,ca4daf40-c6eb-4ec3-be6e-0f108942dc64,CO62LT,Rural town and fringe,Braintree
+01ec1cff-7efa-4b5d-ad17-d2bd02e19167,9182fbe7-c12f-4156-bf59-89ecffa821d2,CO62PW,Rural village,Braintree
+d3b1c0ab-a31a-4b12-b88d-9f4d8934be26,906bc87b-7315-4f63-9702-feb84e9bafcb,CR35RB,Urban major conurbation,Tandridge
+66413a67-03e7-4950-bcd6-2a8bf82b974a,adb453a7-d296-4727-b6a9-3a9ae6c1f96e,CT215QP,Urban city and town,Folkestone and Hythe
+42f49fb4-9a71-4aa8-a85c-1e617352e853,4525390c-c86e-4fce-804d-f46431fea365,CT215UQ,Urban city and town,Folkestone and Hythe
+ee4ad6f8-d696-4219-86b0-6862250e2d6f,7c68afee-9f31-473d-a11f-604d118a21e4,CV109DL,Urban city and town,Nuneaton and Bedworth
+36642f88-3dc0-4f9f-8adc-8c48f70e9e0c,7c68afee-9f31-473d-a11f-604d118a21e4,CV311PB,Urban city and town,Warwick
+9074db6f-e6d8-4a52-a267-b2b848892f15,051f4538-5908-4683-9f77-73067ffb3b6d,CV325QB,Urban city and town,Warwick
+c5ede4e3-23b0-466d-965b-2829d1763b73,c9e422f5-24f0-4da7-bed1-d0fc7d3d56b6,CV327RH,Urban city and town,Warwick
+e32e2089-d8af-4a1c-a07b-5d7a65ec49f7,99b10abb-dcee-4b52-a63c-5852cce8edd3,CV49GN,Urban city and town,Coventry
+3796c06d-04b2-4666-9ef0-439a7c7ffa53,afcc2f69-e61a-46e4-8560-3f57cab67010,DD46JU,Large Urban Area,Dundee City
+360f32d4-114f-41c5-8902-c1af218450af,afcc2f69-e61a-46e4-8560-3f57cab67010,DD76AB,Other Urban Area,Angus
+08575ba5-30e2-42b8-8ee4-6ef308888b7c,afcc2f69-e61a-46e4-8560-3f57cab67010,DD76AB,Other Urban Area,Angus
+6dd59e19-ecf2-44fa-9dc4-fbd4ed0f2342,99b10abb-dcee-4b52-a63c-5852cce8edd3,DE238LH,Urban city and town,Derby
+c0b76052-c1c2-4521-8aa8-8df81ce0057a,a6f3f04f-db77-41a7-a890-6a11604947b9,DE53DW,Urban minor conurbation,Amber Valley
+7deb5a1f-6e61-456c-81ba-f7a1770c2469,c8377795-2a9c-44bc-8947-48ce6f52b533,DL82AS,Rural town and fringe,Hambleton
+165dfaa7-4321-4079-8544-c591b5502ce2,024ca9b5-0305-46c7-9584-d1b6852c9c65,DN227BX,Urban city and town,Bassetlaw
+9eb3e14b-0e92-46e9-a6fc-ad818214a433,9b939a1e-0462-47c4-8f2f-89f396e12e58,DN26BL,Urban minor conurbation,Doncaster
+d088ff0c-3fd2-480a-b8f6-c2517f64d79a,9fa341d5-64c2-426a-b797-02f8f7e4fcb7,DN92HY,Rural village,North Lincolnshire
+c6bf6099-0036-49d7-b6c8-c18086844bc4,7157418a-6595-463c-8824-d943ffc3016d,DT29QL,Rural town and fringe,Dorset
+cfaae34a-4f0c-4a5f-bd8c-9ecad2799c52,de1d259b-7386-4ce8-830b-f45e5962f6f3,DT47QF,Urban city and town,Dorset
+16a67ebe-cfc1-48fc-9973-d9ce213f1bd1,ca7900ac-09e6-452d-a21c-ad99361e1912,DY116AP,Urban city and town,Wyre Forest
+48d9d115-518f-445b-ae65-3db9c5b9e7b7,1f0de9fa-45c8-4acc-bd7d-cd9809b0948e,DY130TX,Rural hamlets and isolated dwellings,Malvern Hills
+aedf0243-9500-4ac6-af49-b9fcc5c684e2,08053d37-d707-47e1-b10e-238d0699a013,DY13JD,Urban major conurbation,Dudley
+eb0bb4cc-7c2a-40e4-ab78-5e8d8aa989d4,fdad3389-4a6e-45f9-8438-02f53759fea3,DY69PB,Urban major conurbation,Dudley
+bff5b75b-cbb0-42d9-ba6a-60402326f06b,ac5d475e-0f23-4ea7-87ae-a67bbbc4e8fd,EH181AH,Accessible Rural,Midlothian
+72a9c568-f320-42ef-b541-8e3d08804c91,ac5d475e-0f23-4ea7-87ae-a67bbbc4e8fd,EH467BD,Accessible Rural,Scottish Borders
+c4ad968c-50ae-4b26-b512-735d5ad6a76f,72c3177e-9fa0-4fa3-a7a6-1bfce447a580,EH92HG,Large Urban Area,City of Edinburgh
+dd6a91de-93d5-4191-9074-e9986853dedd,c92c166d-e4b1-4a38-8db1-9709bbd7a050,EN52AG,Urban city and town,Barnet
+10dfe626-d95e-49d3-9f07-ef2ab8ea4aa9,fd7c7206-1b4e-41f1-a8de-24abf58efa8c,EX109LR,Urban city and town,East Devon
+971e51b5-12ee-4e10-b671-dcca7599bcb6,1090b639-33e4-4865-bad1-9032c25426ae,EX111RH,Rural town and fringe,East Devon
+64f531a3-eb4f-43a6-ada0-a7af5c8849c4,86a8d32e-26d9-4059-b183-2ef6a884f3b3,FK54RB,Other Urban Area,Falkirk
+6259fd39-0892-4e35-99be-95361d3efb17,fd90d8eb-b012-411e-b6cc-209d505493ca,GU147BH,Urban city and town,Rushmoor
+3359401a-751d-4579-8ae7-8b5d36d5a8a3,4c59ae4f-3668-4b19-bbb9-c9e54ce5d978,GU14LY,Urban city and town,Guildford
+871cdcfc-d9e4-452f-8a90-b899ef7287bf,181d26cd-e8f4-4750-a7bb-04eef2773c4a,GU14LY,Urban city and town,Guildford
+4fb705ca-cef1-4b57-a24a-18ed687c88ff,34744739-3a89-47f5-8d9f-73310d3a5025,GU237DJ,Rural hamlets and isolated dwellings,Guildford
+7fbc195e-d237-4a19-b51d-e062c711bf47,8b64eb03-47f0-4fd5-a0e6-318408d7b797,GU307GZ,Rural town and fringe,East Hampshire
+bed4156c-a419-4383-8dfd-71dd864095b9,2feff59d-ca15-49a0-9100-165cded25a37,HP234DH,Urban city and town,Dacorum
+a06699c7-9ae1-4e83-82c2-76cd4f75086a,9955fbee-4168-4a1c-b4a6-dd9aeae04a85,HP25NP,Urban major conurbation,Dacorum
+3c5c8206-d78a-4586-8eed-be82f7da599a,ff8dae68-b32c-4853-af44-54cddb18ae6e,HP41PL,Rural hamlets and isolated dwellings,Dacorum
+6b7aa6bf-e23c-437a-9d21-39a46198f115,4c59ae4f-3668-4b19-bbb9-c9e54ce5d978,HP5,,
+077db2df-aa29-4aa3-a015-10f496382f5c,2feff59d-ca15-49a0-9100-165cded25a37,HP51NE,Urban city and town,Buckinghamshire
+abc2597c-0c4f-419e-a6d9-e4b596165631,e2b2cac7-5edd-428a-b892-8f510c6a43b6,HP91LJ,Urban city and town,Buckinghamshire
+b41fbee4-f2b7-4c07-98f3-1b8562368ca1,c642d9c5-030a-4a71-bb08-874958682073,HR28DL,Rural hamlets and isolated dwellings,"Herefordshire, County of"
+765a499c-f4aa-4122-8ec5-fce9edbd474f,77923f6b-7349-4686-8fa3-c3e4d5d29cbd,IP124NB,Urban city and town,East Suffolk
+3918298f-8056-457d-ba0d-40eeaf27ca9e,ca4daf40-c6eb-4ec3-be6e-0f108942dc64,IP238BU,Rural village,Mid Suffolk
+1f9bdff4-e99f-47d9-9288-3ac019dbd553,b54a1a03-12fd-4876-afb6-0dd17114c1a3,IP38SZ,Urban city and town,Ipswich
+cc47f2d4-1e5e-43ec-8ef3-594b75ab0e61,ca4daf40-c6eb-4ec3-be6e-0f108942dc64,IP39QB,Urban city and town,Ipswich
+80ef99cf-0a6f-4fb1-a926-b37bdc3060ce,42d8522a-6e42-44fb-8319-0e09d92fbaec,IP44PN,Urban city and town,Ipswich
+cd4014b0-a1f1-4b68-b18e-37ad62a3cd7f,1d8e8a92-09a2-4f99-85e8-687415c9fe00,IV262HZ,,
+1456511a-d2d3-468f-a495-96835d7b915f,ac5d475e-0f23-4ea7-87ae-a67bbbc4e8fd,KY120AB,Other Urban Area,Fife
+6e8976ad-d373-45e5-af69-9a3d408db433,0f18dbc7-3ca0-432a-bc88-568019e002ca,KY12UQ,Other Urban Area,Fife
+5965a107-6146-4453-97a5-b353bf3379d2,afcc2f69-e61a-46e4-8560-3f57cab67010,KY130PX,Accessible Rural,Perth and Kinross
+4f86bce7-9a29-4fd4-843d-729672fa9255,86a8d32e-26d9-4059-b183-2ef6a884f3b3,KY58HU,Accessible small Town,Fife
+5523803b-e3e2-4435-8343-94fe00162a9a,86a8d32e-26d9-4059-b183-2ef6a884f3b3,KY58HU,Accessible small Town,Fife
+7302afac-a433-4815-b06a-132d52bc0938,86a8d32e-26d9-4059-b183-2ef6a884f3b3,KY58HU,Accessible small Town,Fife
+0d740718-97ab-4ae0-a2d4-6c9b85eccff6,9239d0ed-16d2-4ba8-8ed3-8e660d2456f1,L355BZ,Urban major conurbation,Knowsley
+35d655fa-c9da-4c5d-97e0-1e1361ebf3ea,145cdd1b-b9c0-43f9-8394-7e5e32347a14,LA145LE,Urban city and town,Barrow-in-Furness
+cd3093a1-d3b4-4ac0-9832-173b52c5c1d7,145cdd1b-b9c0-43f9-8394-7e5e32347a14,LA145LE,Urban city and town,Barrow-in-Furness
+fd1e1d35-c622-400e-8c8d-febf4d310dbf,351e396c-7981-429f-81fa-c70ef97f9fc4,LA94JB,Urban city and town,South Lakeland
+601c1a87-de01-4c15-9d15-84f3ef8db399,35e150b3-d0c0-4396-90eb-f8a5d7fd4636,LE176LA,Rural village,Harborough
+39a050f4-853c-4ec0-9c32-8b64e7b8db76,593f84d4-f5a9-4a1e-bacd-2e36bba51072,LE28PG,Urban city and town,Leicester
+be26babb-b7dc-420e-a77c-06235b6ed386,351e396c-7981-429f-81fa-c70ef97f9fc4,LE39LG,Urban city and town,Leicester
+dc9962b3-6b3d-447e-9623-3f3862ea4e45,3344e559-2b16-4f71-816b-a48fd5a4b3c2,LE47YJ,Urban city and town,Leicester
+51e131c4-4c4e-490b-963c-0cd865c153b4,593f84d4-f5a9-4a1e-bacd-2e36bba51072,LE50TB,Urban city and town,Leicester
+0d0b3f55-abf6-4185-85ac-4532c890b3cf,f828d521-dba4-4a94-8720-3fd69fa9d1d1,LE80LG,Rural town and fringe,Harborough
+83569678-3892-4dee-bcbd-c419c4d0935c,351e396c-7981-429f-81fa-c70ef97f9fc4,LL199ND,Urban city and town,Denbighshire
+4a934f40-35bd-481e-85a1-5c9bd6ccbe4d,ac5d475e-0f23-4ea7-87ae-a67bbbc4e8fd,LN65UW,Rural town and fringe,North Kesteven
+97337c6f-2523-470c-8a63-512da2eb18bd,bd6e72f9-37f3-47c5-96ec-e6a6f463132a,LS103LG,Urban major conurbation,Leeds
+9cc95103-8ab1-484a-8da0-b5d712e3d6fd,ed16f2db-cd29-4944-8357-f029bda1938b,LS97PY,Urban major conurbation,Leeds
+ac985625-c158-4a9b-b194-adb6f76e5639,ed16f2db-cd29-4944-8357-f029bda1938b,LU27QF,Urban city and town,Luton
+6bb4c77a-fc1e-4188-9222-5ec14c5d6d39,ff8dae68-b32c-4853-af44-54cddb18ae6e,LU61NX,Urban city and town,Central Bedfordshire
+f89c6a2c-a6f8-41b1-8877-aa93e2cd0661,43ae1eca-1304-4f6d-bc01-e7583212644c,LU63SD,Urban city and town,Central Bedfordshire
+e3e1f51e-71c2-469f-9311-1130ee22d862,68f7d625-d0fa-41d2-841f-05f6bae46f61,M230EA,Urban major conurbation,Manchester
+75085e89-5645-44f8-a3eb-e50720772930,9f692d57-7ad5-46bd-8d0f-92247775c773,M298JE,Urban major conurbation,Wigan
+5de4e4d8-01ab-4ed6-bea1-96458a0745f5,174f8be8-948d-4910-aab9-2a06c1d14800,MK410JX,Urban city and town,Bedford
+fa2660b6-0bcb-4b7c-94e2-476cb00539a4,e3805d41-51d0-4277-8375-f3c1b8899b43,ML126HA,Remote Rural,South Lanarkshire
+70d062d9-3b1c-40d8-8fd4-be09bbfc2c4c,e3805d41-51d0-4277-8375-f3c1b8899b43,ML29QW,Accessible Rural,North Lanarkshire
+ce6fe853-cdba-44d5-a7f0-a98729f61c52,9154080c-265e-4d9d-8c4c-14d61b964a3f,N144LG,Urban major conurbation,Enfield
+d5581d76-3193-416e-bdc0-01978da16197,18c6698a-b3f4-4aa6-96e9-f5a08015e275,N77DL,Urban major conurbation,Islington
+685fb0c2-d21c-40f4-816e-2e2b658b4780,61595759-e05a-42e6-80ab-2780e381514c,NG147FT,Rural hamlets and isolated dwellings,Newark and Sherwood
+6cde0622-2963-4f63-ad04-9853a4858425,034a4560-de6d-46fe-9cfc-978cfdc9c431,NG25AS,Urban minor conurbation,Rushcliffe
+15a9fc06-409a-4844-86e9-d829eecb79df,ca7900ac-09e6-452d-a21c-ad99361e1912,NG36BB,Urban minor conurbation,Gedling
+1f1363e7-5690-457a-9d1c-5b3f4e9e2d7e,61595759-e05a-42e6-80ab-2780e381514c,NG51BL,Urban minor conurbation,Nottingham
+784f998f-098d-4652-a640-85e84a4f7def,ff8dae68-b32c-4853-af44-54cddb18ae6e,NN144DF,Rural town and fringe,North Northamptonshire
+b74cb9eb-3ce1-418a-aef7-99e8ddc80924,909a4925-1b9d-4539-b208-c3694b975039,NN36QT,Urban city and town,West Northamptonshire
+d8c20dbc-1201-4e3d-9827-8038411c6f73,ca4daf40-c6eb-4ec3-be6e-0f108942dc64,NR324AQ,Urban city and town,East Suffolk
+9cf39bd5-506b-4e1c-ba0b-2bec74a80f81,ca4daf40-c6eb-4ec3-be6e-0f108942dc64,NR34DG,Urban city and town,Norwich
+7fa7155c-0805-4594-8737-70ad7c1dd483,8c420e20-7cf0-466e-b827-0b057bcc8e6c,NR67BQ,Urban city and town,Broadland
+cb695666-2846-4e05-99cd-8cb20584d359,ca4daf40-c6eb-4ec3-be6e-0f108942dc64,PE389PA,Urban city and town,King's Lynn and West Norfolk
+6edf1d64-ae1f-4beb-bf5c-9921dc4d2143,bb688cfe-0111-43e0-9180-d1a47e1d60b8,PE69BA,Urban city and town,Peterborough
+0a6b48c3-79d6-4a68-9923-bebc895c1856,afcc2f69-e61a-46e4-8560-3f57cab67010,PH15HS,Other Urban Area,Perth and Kinross
+9b1495a1-8cd0-433e-94de-cbf04e9adc33,afcc2f69-e61a-46e4-8560-3f57cab67010,PH15HS,Other Urban Area,Perth and Kinross
+5115b634-fbc3-4311-9d02-e9c7286274c4,ac5d475e-0f23-4ea7-87ae-a67bbbc4e8fd,PH20RA,Accessible Rural,Perth and Kinross
+0a32da72-ef4c-4ce6-8bcf-4ea77b07c5c4,1d8e8a92-09a2-4f99-85e8-687415c9fe00,PH364HZ,Very Remote Rural,Highland
+9245d3e8-0fa7-4ff6-af59-3e14c1099ad0,59b99769-cc23-4065-9b8a-a1e6d446d282,PO107QR,Urban city and town,Havant
+afc25a43-b8e6-4206-87d0-591ab4854da5,92271fc1-97cc-4477-8162-3b8b2c8d6482,PO141NZ,Urban city and town,Fareham
+e8e39985-33eb-4e41-928d-adad5d0fb3e9,cba86328-9cd8-4b23-aab1-61b852e74a64,PO167UQ,Urban city and town,Fareham
+79270ff2-bd24-4541-99c9-6b44db041873,0552711b-d5c7-4421-8d02-a68caff862cc,PO61EE,Urban city and town,Portsmouth
+3837dd2f-2273-4ccf-9a20-3ccecd99f838,174f8be8-948d-4910-aab9-2a06c1d14800,PO89LN,Urban city and town,East Hampshire
+b2159b2f-7ca8-41d7-bbf1-875a88837c36,bd6e72f9-37f3-47c5-96ec-e6a6f463132a,PR19HL,Urban city and town,South Ribble
+524f8b5c-a3b1-4882-9e3d-119ba11f6989,4ec3aba3-dae9-4213-b430-483e0b7ae8c7,RG213DT,Urban city and town,Basingstoke and Deane
+46426e2d-d03b-4383-b972-62378a9320ea,bb9c141f-7ebc-49a8-81c3-5bef4e717ac0,RG27HF,Urban city and town,Reading
+84b772f5-30d0-48cf-ad77-245ae9cb918a,0804ed17-e1cf-4b22-8e9b-b851606e3814,RG27RU,Urban city and town,Reading
+feb7aa96-83ab-404e-bf2d-2d2b38087320,bb9c141f-7ebc-49a8-81c3-5bef4e717ac0,RG403RB,Urban city and town,Wokingham
+787309f5-59bf-4f73-89ce-52550e8c8303,6c189628-56ba-4874-959d-6b626a0b7d59,RH14BG,Urban city and town,Reigate and Banstead
+9aef1913-2bfc-4dc7-9805-0166405b2cb9,b65c9f9a-14fc-47e4-addd-8e0e3b12387b,RH14BG,Urban city and town,Reigate and Banstead
+5a08af25-1115-4570-88ae-9ba727239dc3,b65c9f9a-14fc-47e4-addd-8e0e3b12387b,RH192PF,Urban city and town,Tandridge
+df022ba1-92b4-4ce4-bb9c-13def4f6446f,5f30eeab-d57f-4645-9a10-10c029c4eb95,RH20ND,Urban city and town,Reigate and Banstead
+197af685-6ee1-4681-8e64-6775535853c7,b65c9f9a-14fc-47e4-addd-8e0e3b12387b,RH69EF,Urban city and town,Reigate and Banstead
+5d364ffd-050d-4072-8120-084d5fa59d7a,b65c9f9a-14fc-47e4-addd-8e0e3b12387b,RH69SW,Urban city and town,Crawley
+7b3032ed-1b50-4b38-90a5-bff31fc96c6d,214ab3f7-6b6b-4467-a5b2-20a0745839b5,RM141AF,Urban major conurbation,Havering
+6f336c78-0c02-4aff-9ff0-a990ab4cd30b,67945218-559d-43d6-9721-04dc97f45c6e,S419EB,Urban city and town,Chesterfield
+5df0668f-55d5-411f-8898-6d316c98d5af,67945218-559d-43d6-9721-04dc97f45c6e,S419EB,Urban city and town,Chesterfield
+5ba0d45f-3d6b-4790-bbd2-0d0309d42178,144c3c08-3ada-4913-8520-5b60d545e60a,S605QS,Rural town and fringe,Rotherham
+973888eb-3859-4360-9c79-1dd2ff886c06,e42d6e12-9a73-4e5b-bb19-ca162a5b6d68,SA32AN,Rural village,Swansea
+5c24903a-c712-4f4b-a22f-4a8b10fd50b0,a2553459-1b96-4177-b8f7-bd41fb517507,SA34UX,Urban city and town,Swansea
+f6690644-770f-4b44-97c8-d1a84783b5f9,43ae1eca-1304-4f6d-bc01-e7583212644c,SG188JU,Urban city and town,Central Bedfordshire
+6b40a920-c975-4afd-be52-0bee45f00ef1,2feff59d-ca15-49a0-9100-165cded25a37,SG49AL,Urban city and town,North Hertfordshire
+cc13aa3e-4900-476c-b385-9bf495ac6797,c0013bc0-822c-4ec0-bade-5740e49c9d73,SG99JP,Rural town and fringe,East Hertfordshire
+a535ef08-010d-4e03-b180-d072727d6886,fd7c7206-1b4e-41f1-a8de-24abf58efa8c,SL68HP,Urban city and town,Windsor and Maidenhead
+8a7e3c00-0d2f-4e88-b25b-fbbf249b1f6c,fd5b4db0-7e3d-4065-854f-c311c19f6eab,SO239LN,Urban city and town,Winchester
+15a12967-adca-4f14-bce0-6259f7cf8fa8,e13ff36f-06f8-46ea-b039-60b92266835f,SO317EW,Urban city and town,Fareham
+108b0b97-1b8c-47a5-b739-b6dce5f859fb,470775e7-0b64-46df-a671-07ccd30bb9a0,SO534TL,Urban city and town,Test Valley
+bea2cfaa-e4ea-4045-a36c-1251cabee132,01b4acb5-528f-4da9-a58f-eb71eb04e386,SS26FQ,Urban city and town,Southend-on-Sea
+be8cc8f2-442c-432f-af7b-82a49f0f4b38,07b2aafe-cb44-44a5-add9-29eb579f8a73,SS71QB,Urban city and town,Castle Point
+128cfe0b-c0a9-4365-974f-c530a41d76b9,07b2aafe-cb44-44a5-add9-29eb579f8a73,SS72QL,Urban city and town,Castle Point
+72f1627b-5e7b-439d-8359-54506b2b258a,f63863e6-e15a-4d7c-bd2e-c05369d5bac7,ST174LG,Urban city and town,Stafford
+be3423b0-90b8-40ca-80b7-156b7e04f6ab,81846633-e174-46fb-9e95-b550f17295b0,ST36ES,Urban city and town,Stoke-on-Trent
+4107b49f-117a-4618-9032-c5ae79ad66d1,8ee46008-9ec9-49a0-b117-d943555856c6,ST51ND,Urban city and town,Newcastle-under-Lyme
+131c1567-271f-4d2c-8207-60437b66bd6e,123caa0f-7185-4af7-844e-7bf57a55f57e,SW177HL,Urban major conurbation,Wandsworth
+cfa53b9c-a147-43d3-84fe-ab2ba73bac61,4443bf3b-c6a1-4953-91d6-e607a63a2c69,TA219NS,Rural hamlets and isolated dwellings,Somerset West and Taunton
+d47e89f1-dd00-4276-97a8-3f86a9ff04a7,ac5d475e-0f23-4ea7-87ae-a67bbbc4e8fd,TD86ST,Accessible Rural,Scottish Borders
+f150be2d-974b-4e9b-8770-e3105d7f5c4c,ac5d475e-0f23-4ea7-87ae-a67bbbc4e8fd,TD98JQ,Accessible Rural,Scottish Borders
+055778f7-7143-4a98-8501-e8d5789e4566,ef3ca9e6-cad9-42f7-8a23-66cd691c9467,TN288NB,Rural town and fringe,Folkestone and Hythe
+c936b214-c831-4f14-8f76-971c72a18c1e,80e7cec4-f674-49c9-86e3-f4c14f0f04a7,TN288QX,Rural town and fringe,Folkestone and Hythe
+3700872a-5ff4-4548-9d01-6a4a24d41aae,4525390c-c86e-4fce-804d-f46431fea365,TN380SE,Urban city and town,Hastings
+ae325e5f-b145-4cfd-a42d-e8fffb48d0a7,06905a11-3fe2-4161-a4d5-5f896598f744,TN393DN,Urban city and town,Rother
+3c7e5ab5-06ee-40fa-acbe-bf8e925cc883,03eb803c-cb15-4d7a-8f32-d4cd56a8623d,TN402HJ,Urban city and town,Rother
+dd8581b6-9b98-45b8-9577-6f8213a8914e,4f7dfea2-a602-41c7-92d4-42f5cadc2e39,TQ121PY,Urban city and town,Teignbridge
+467623da-3cbd-4237-9610-aab67c5c32da,8e8403f9-3208-46b9-847b-cf2a2fa8d4e1,TQ121RJ,Urban city and town,Teignbridge
+78eecfd8-7995-469d-9d35-8ab7b2a3467f,11a108cb-e3be-4372-968b-ae24a48effc8,TQ125NL,Rural town and fringe,Teignbridge
+bc59dd2f-a9bc-405e-8efd-3498aa599b33,b29ea102-1636-4705-94ec-4e5f1db58b34,TQ125RU,Rural town and fringe,Teignbridge
+ad1270e1-fc15-4cc4-98d3-c82b873900fc,6f657107-1693-47b3-8309-9e17fa6461af,TQ139JS,Rural hamlets and isolated dwellings,Teignbridge
+484c4865-4576-49c9-8566-36a5b18a23d5,ae6143b2-9e68-4b6e-abfe-e4701c064dfa,TQ13HZ,Urban city and town,Torbay
+ddb36b8a-d175-4bba-88ac-2293d4dc7313,819ecb4b-4fc6-4ee4-a50c-2f9ab75cb50a,TQ13JE,Urban city and town,Torbay
+2a3c659d-f98e-4ba0-837b-1a67962d4221,5794a9f2-c204-4881-acda-b0b8469edd91,TQ46DN,Urban city and town,Torbay
+abcb8cac-e089-4eb2-8c03-7e12f485ebcf,b655182a-bd7d-4705-8065-03e9238d9ab6,TR274NG,Rural town and fringe,Cornwall
+e61d37ae-f90a-40fb-bcd7-cf9ae109221c,bb253d37-c652-4dff-951f-02513e77c5f6,TS42DR,Urban city and town,Middlesbrough
+38c77d37-2a3c-4ab2-8950-f5cf8eb9a8e8,ed16f2db-cd29-4944-8357-f029bda1938b,TW149AY,Urban major conurbation,Hounslow
+01aa9997-6ca5-457a-b304-214801e3bd48,ed16f2db-cd29-4944-8357-f029bda1938b,TW149AY,Urban major conurbation,Hounslow
+d92e794f-2913-4ad9-ae3c-3c75c36bdca1,01b4acb5-528f-4da9-a58f-eb71eb04e386,UB100BY,Urban major conurbation,Hillingdon
+efbff726-8776-4e79-bc0e-e7a4a2569746,1ce12b55-7819-4339-a0a0-a227cc831cab,WD180JY,Urban major conurbation,Watford
+f770aaf8-617c-4064-ae17-450858d15c21,cf46e186-1dee-46a2-82e3-3f7d8a0bc019,WD231JQ,Urban major conurbation,Harrow
+0fd517c6-529e-4736-814f-5affbf0b0881,e2b2cac7-5edd-428a-b892-8f510c6a43b6,WD258HA,Urban city and town,Hertsmere
+f27d762b-9725-4103-8655-dafe521e9a03,2feff59d-ca15-49a0-9100-165cded25a37,WD48AA,Urban major conurbation,Dacorum
+539651a0-defc-46b2-bd92-c4f98afdbfb4,b69d7b9d-998e-4be2-a7d9-3c2809b8363b,WF104BJ,Urban city and town,Wakefield
+ad9d4c8a-6623-4acf-a5cf-0522b1666ba7,f784beac-ef01-46f0-9ba9-c7e3bcfc0df8,WF104BW,Urban city and town,Wakefield
+04bc74d1-60e7-484b-8007-696da46eddcb,8cb02c14-4c75-47df-abea-a7715cbf234b,WF110JG,Urban city and town,Wakefield
+8335c18f-c279-4084-b090-b47609cdbba8,f784beac-ef01-46f0-9ba9-c7e3bcfc0df8,WF27DP,Urban major conurbation,Wakefield
+ac51becf-365e-4d91-b5e9-202ca781ab6d,6dfda7a6-b9dd-4b44-b17a-2be15e8e984f,WN12XN,Urban city and town,Wigan
+ea381d47-8119-4f97-bb36-2d54faf14f7c,ed16f2db-cd29-4944-8357-f029bda1938b,WR26BY,Urban city and town,Worcester
+a1118e06-0f54-4a68-a3ec-2ce481c20433,051f4538-5908-4683-9f77-73067ffb3b6d,WS99DE,Urban major conurbation,Walsall
+01deaf64-7213-4236-9cd1-51cccbefb823,6fac1e19-0d6a-490a-85d7-247d799d46d2,WV81PP,Urban major conurbation,South Staffordshire
+6ab58086-61a7-4423-b6dd-07e934935a4c,298a5c16-32d0-4f86-a0e5-1ff8ae74b915,YO126EA,Urban city and town,Scarborough
+2d2ab76d-5622-4186-92a2-bb7c6af0a274,a97c8f2b-4ba3-4b18-b77b-dce09488ed4e,YO164UH,Urban city and town,East Riding of Yorkshire
+4fbc27b6-29f6-428f-9657-299d3e7db049,c8377795-2a9c-44bc-8947-48ce6f52b533,YO211PX,,Scarborough
